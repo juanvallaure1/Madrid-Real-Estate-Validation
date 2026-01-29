@@ -4,7 +4,7 @@
 
 ## 💾 Dataset Access
 Due to GitHub's file size limits, the datasets used in this project are hosted externally.
-[👉 Click here to download the Datasets (Google Drive)](PEGA_TU_LINK_AQUI)
+[👉 Click here to download the Datasets (Google Drive)](https://drive.google.com/drive/folders/10kagfgpB-VfztGrPkN-u7fwIg9FxiRFL?usp=drive_link)
 
 Please download them and place them in the `data/` folder to run the notebooks.
 
