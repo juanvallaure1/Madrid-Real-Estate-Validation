@@ -1,6 +1,6 @@
 # Madrid Real Estate Valuation & Investment Strategy 🏠
 
-**Prepared for:** Rapada Partners | **Context:** Strategic Data Science Assessment
+**Prepared for:** Fictional Investment Fund | **Context:** Strategic Data Science Assessment
 
 
 
