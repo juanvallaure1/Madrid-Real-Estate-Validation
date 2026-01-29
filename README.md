@@ -2,6 +2,12 @@
 
 **Prepared for:** Rapada Partners | **Context:** Strategic Data Science Assessment
 
+## 💾 Dataset Access
+Due to GitHub's file size limits, the datasets used in this project are hosted externally.
+[👉 Click here to download the Datasets (Google Drive)](PEGA_TU_LINK_AQUI)
+
+Please download them and place them in the `data/` folder to run the notebooks.
+
 ## 📌 Project Overview
 This repository contains a comprehensive machine learning analysis of the Madrid housing market. Using a dataset of ~200,000 listings, we developed an **XGBoost** regression model to identify market inefficiencies.
 
