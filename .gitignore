@@ -1,1 +1,17 @@
 data/ 
+# Ignorar datos pesados (Opcional: quita la almohadilla si pesan >100MB)
+# data/*.parquet
+# data/*.csv
+
+# Ignorar archivos del sistema y caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.env
+venv/
+wandb/
+
+# Ignorar modelos muy pesados si los hay
+*.joblib
+*.pkl
