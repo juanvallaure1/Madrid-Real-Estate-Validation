@@ -2,7 +2,7 @@
 
 **Prepared for:** Fictional Investment Fund | **Context:** Strategic Data Science Assessment
 
-Link to access the dataset: https://drive.google.com/drive/folders/10kagfgpB-VfztGrPkN-u7fwIg9FxiRFL?usp=drive_link
+
 
 ## 📌 Project Overview
 This repository contains a comprehensive machine learning analysis of the Madrid housing market. Using a dataset of ~200,000 listings, we developed an **XGBoost** regression model to identify market inefficiencies.
